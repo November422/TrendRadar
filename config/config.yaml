@@ -88,7 +88,7 @@ platforms:
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
     name: "微博"
- - id: "zhihu"
+  - id: "zhihu"
     name: "知乎"
   - id: "douyin"
     name: "抖音"
